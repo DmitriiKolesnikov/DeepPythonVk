@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-void matmult(float* a, float* b, float* c, int n) {
+void multiply(float* a, float* b, float* c, int n) {
     int i = 0;
     int j = 0;
     int k = 0;
